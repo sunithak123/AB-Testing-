@@ -24,6 +24,8 @@ No statistically significant difference between Promotion 1 and 3.
 Recommendation: Discontinue Promotion 2; further test between 1 and 3.
 ## link for coding 
 https://colab.research.google.com/drive/1sLy9F5SYy4b_Vmt_Uv6-ehiKY7Z5L9Sm?authuser=2#scrollTo=kmcNk09VJGxl
-Data : https://raw.githubusercontent.com/rajeevratan84/datascienceforbusiness/master/WA_Fn-UseC_-Marketing-Campaign-Eff-UseC_-FastF.csv
+
+## Data
+https://raw.githubusercontent.com/rajeevratan84/datascienceforbusiness/master/WA_Fn-UseC_-Marketing-Campaign-Eff-UseC_-FastF.csv
 
 
